@@ -1,0 +1,4 @@
+﻿  func.c
+D:\repos\univ\laba10try2\laba10try2\func.c(421,3): warning C4033: 'AboveAveragePriceBooklist' must return a value
+D:\repos\univ\laba10try2\laba10try2\func.c(443): warning C4715: 'AboveAveragePriceBooklist': not all control paths return a value
+  laba10try2.vcxproj -> D:\repos\univ\laba10try2\x64\Debug\laba10try2.exe
