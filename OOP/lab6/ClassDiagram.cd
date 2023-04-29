@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CCar">
+    <Position X="0.75" Y="3.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>gQACAABAAAAoAAAAAEAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CCar.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMotorcycle">
+    <Position X="1.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>gQACAABAAAAAAAAAAAIAAAAIAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>CMotorcycle.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTruck">
+    <Position X="7.75" Y="2.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>gQAGAABAAABAAAAAAAAAAAAAAAAAAAAAACAEAAAAAAA=</HashCode>
+      <FileName>CTruck.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CVehicle">
+    <Position X="4.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQJQIIEWCQhAAoAhEEIEAAAKAGAABAAgAIAABAgAAAA=</HashCode>
+      <FileName>CVehicle.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="VehicleCondition">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAACAAAAAABAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>CVehicle.hpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

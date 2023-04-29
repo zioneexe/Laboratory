@@ -1,0 +1,40 @@
+	Vehicle Characteristics:	
+Max Speed: 1
+Engine Power: 1
+Number of Seats: 1
+Max Seats: 1
+Price: 1
+Age: 1
+Weight: 1
+Mileage: 1
+Fuel Efficiency: 1
+Vehicle Characteristics:	
+	Max Speed: 200
+	Engine Power: 200
+	Max Seats: 4
+	Number of Seats: 3
+	Price: 2000000
+	Age: 10
+	Weight: 6500
+	Mileage: 3400
+	Fuel Efficiency: 20
+Vehicle Characteristics:	
+	Max Speed: 200
+	Engine Power: 200
+	Max Seats: 4
+	Number of Seats: 3
+	Price: 2000000
+	Age: 10
+	Weight: 6500
+	Mileage: 3400
+	Fuel Efficiency: 20
+Vehicle Characteristics:	
+	Max Speed: 200
+	Engine Power: 312
+	Max Seats: 4
+	Number of Seats: 4
+	Price: 4000000
+	Age: 2
+	Weight: 5400
+	Mileage: 200
+	Fuel Efficiency: 20

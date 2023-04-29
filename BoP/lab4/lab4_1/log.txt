@@ -1,0 +1,4 @@
+[2022.11.02 19:15.034] Program started.
+[2022.11.02 19:16.029] Parameters file "input.bin" opened. x=-17.219999, y=6.330000, z=3.250000.
+[2022.11.02 19:16.029] Error: incorrect input.
+[2022.11.02 19:16.029] Program ended.
