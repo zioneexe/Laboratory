@@ -1,0 +1,17 @@
+Taras Shevchenko;Kobzar;452;1840;22.61;
+George Orwell;Nineteen Eighty-Four;328;1949;7.60;
+Joanne K. Rowlinggggggggggggggggggg;Harry Potterrrrrrrrrrrrrrrrrrrrrrr (Philosopher's Stone);223;1997;8.26;
+Miguel de Cervantes;Don Quixote;1077;1605;13.99;
+Plato;The Republic;568;-375;16.99;
+Franz Kafka;The Metamorphosis;100;1915;4.49;
+Virgil;The Aeneid;464;-19;12.56;
+Andrzej Sapkowski;The Witcher:Time of Contempt;352;1995;9.99;
+Valerian Pidmohylny;The City;288;1928;6.75;
+Erich Maria Remarque;All Quiet on the Western Front;200;1929;10.5;
+J. R. R. Tolkien;The Lord of the Rings;1178;1954;29.99;
+Harper Lee;To Kill a Mockingbird;281;1960;7.99;
+Gustave Flaubert;Madame Bovary;190;1856;7.99;
+Victor Hugo;Les Miserables;1488;1862;14.99;
+Marcel Proust;In Search of Lost Time;4215;1913;12.56;
+James Joyce;Ulysses;732;1922;8.76;
+Charles Dickens;Bleak House;945;1852;8.49;
